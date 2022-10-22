@@ -3,6 +3,7 @@ This is a blog app based on Django-Python which is working as backend and HTML,C
 
 
 Here is the preview!!!
+
 **1) The home page**
 
 ![image](https://user-images.githubusercontent.com/73846184/197350854-41d4602e-171a-4753-81ec-538ff0ef3b4f.png)
@@ -33,3 +34,16 @@ Here is the preview!!!
 ![image](https://user-images.githubusercontent.com/73846184/197352572-947ce2b7-59a9-4cc1-a8f1-bb0c320e0722.png)
 
 
+**5) Login/Logout**
+
+----->  **_LOGOUT_** preview
+
+![image](https://user-images.githubusercontent.com/73846184/197359039-4c797965-dc55-4c25-ad7f-a93ab5d11159.png)
+
+
+------->  **_LOGIN_** preview 
+![image](https://user-images.githubusercontent.com/73846184/197359083-4a1840d6-762e-4d18-ad3a-fe3f811e97be.png)
+
+
+-------> **_REGISTRATION_** preview
+![image](https://user-images.githubusercontent.com/73846184/197359093-8d52c21d-5d2e-43ee-9667-5a3527fbbca0.png)
