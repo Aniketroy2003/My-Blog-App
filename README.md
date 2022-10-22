@@ -24,14 +24,18 @@ Here is the preview!!!
 
 **4) Some authorities**
 
------> If an user is watching own post, he/she can edit even the after the blog is posted.
+-----> If an user is watching own post, he/she can edit even after the blog is posted.
 
 ![image](https://user-images.githubusercontent.com/73846184/197352700-6506b1e4-28c2-4687-913f-78549f233c2a.png)
 
 
+
 ----> but the other posts will be in the read only mode...
 
+
 ![image](https://user-images.githubusercontent.com/73846184/197352572-947ce2b7-59a9-4cc1-a8f1-bb0c320e0722.png)
+
+
 
 
 **5) Login/Logout**
